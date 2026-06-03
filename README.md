@@ -7,6 +7,3 @@ Este repositório será usado como início do projeto criado no Draw.io (também
 ### Objetivo
 - Organizar os materiais e o rascunho do projeto;
 - Evoluir o conteúdo ao longo da preparação para a certificação AWS.
-
-### Próximo passo
-- Enviar o arquivo PNG do rascunho feito no Draw.io para a pasta `images`.
